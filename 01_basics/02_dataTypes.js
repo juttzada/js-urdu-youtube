@@ -19,7 +19,7 @@ let state;
 // symbol = unique
 
 
-//subject
+//object
 
 
 
